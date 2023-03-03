@@ -210,4 +210,4 @@
 
 // int [,] array = Create2DRandomArray(colums, rows, minValue, maxValue);
 // Show2DArray(array);
-// SumDiagonalElements(array);
+// SumDiagonalElements(array); // .
